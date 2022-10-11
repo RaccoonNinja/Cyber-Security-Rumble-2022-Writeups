@@ -6,7 +6,7 @@ First of all thank RedRocket for hosting this CTF. The challenges are hard but a
 
 ## Reflections
 
-- While I'm satisfied with my ranking\* - I feel like I wasn't doing good enough and got to that place merely by working on the problems for 20 out of 24 hours
+- While I'm satisfied with my ranking\* - I feel like I wasn't doing good enough (solved only 7 problems) and got to that place merely by working on the problems for 20 out of 24 hours
 - While grouping challenges by difficulty is understandable as some problems are multi-categorical, this is the first time I met that and I was more demotivated from solving "harder" problems than before, while getting stuck on "easier" problems
 - I spent way much time chasing rabbit holes for some "easier" problems (V1RUSCHECK0R3000) and could have worked more systematically for others (PIKACHUFACE, CMS)
 - I could be tired as this is my 3rd consecutive weekend CTF solo (DownUnderCTF, SekaiCTF) ~better sleep more~
